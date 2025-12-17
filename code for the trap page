@@ -214,10 +214,10 @@
         .tooltip {
             position: relative;
             display: inline-block;
-            border-bottom: 2px dotted #667eea;
+            border-bottom: 2px dotted #000000;
             cursor: help;
             font-weight: bold;
-            color: #667eea;
+            color: #000000;
         }
         
         .tooltip .tooltiptext {
@@ -425,9 +425,7 @@
                 <span class="tooltiptext">Продающий заголовок - раскрывает УТП и убеждает в ценности предложения</span>
             </span></p>
             
-            <!-- Большая якорная картинка -->
-            <img src="https://via.placeholder.com/1000x500/667eea/ffffff?text=Интерфейс+AutoCRM+Pro+с+аналитикой+и+прогнозами" alt="Интерфейс AutoCRM Pro" class="hero-image">
-            
+           
             <!-- Царь-кнопка -->
             <a href="#cta" class="btn-primary tooltip">Получить демо-доступ бесплатно
                 <span class="tooltiptext">Царь-кнопка - самый важный элемент страницы. Все должно вести к нажатию на эту кнопку</span>
@@ -643,9 +641,9 @@
     <section class="cta-section">
         <div class="container">
             <h2 class="cta-title">Готовы увеличить продажи?</h2>
-            <p style="font-size: 20px; margin-bottom: 30px;">Присоединяйтесь к <span class="tooltip">50+ автосалонам
-                <span class="tooltiptext">Среди наших клиентов: дилерские центры KIA, Hyundai, Volkswagen и независимые автосалоны</span>
-            </span>, которые уже используют AutoCRM Pro</p>
+            <p style="font-size: 20px; margin-bottom: 30px;">Присоединяйтесь к 50+ автосалонам
+                <span class="tooltiptext"><h3>Среди наших клиентов: дилерские центры KIA, Hyundai, Volkswagen и независимые автосалоны</h3></span>
+            , которые уже используют AutoCRM Pro</p>
             <a href="#cta" class="btn-primary">Начать бесплатный trial</a>
         </div>
     </section>
@@ -653,7 +651,7 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            <p>© 2024 AutoCRM Pro. Все права защищены.</p>
+            <p>© 2025 AutoCRM Pro. Все права защищены.</p>
             <p>Краснодар, ул. Примерная, 123 | +7 (999) 123-45-67 | info@autocrmpro.ru</p>
             <p style="margin-top: 15px; font-size: 14px;">
                 <a href="#" style="color: #ddd; text-decoration: none; margin: 0 10px;">Политика конфиденциальности</a> | 
